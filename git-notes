@@ -1,3 +1,5 @@
 these are notes about git:
 make git repository:...
 git add Filename
+
+to send data somewhere safe git push
